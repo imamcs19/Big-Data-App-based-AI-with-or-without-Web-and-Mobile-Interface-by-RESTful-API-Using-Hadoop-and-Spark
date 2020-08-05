@@ -1,0 +1,11 @@
+Data ke-i,Fitur 1,Fitur 2,Fitur 3,Kelas (C)
+1,Urgent,Yes,Yes,Reading
+2,Urgent,No,Yes,Learn
+3,Near,Yes,Yes,Reading
+4,None,Yes,No,Reading
+5,None,No,Yes,Listening
+6,None,Yes,No,Reading
+7,Near,No,No,Learn
+8,Near,No,Yes,Thinking
+9,Near,Yes,Yes,Reading
+10,Urgent,No,No,Learn

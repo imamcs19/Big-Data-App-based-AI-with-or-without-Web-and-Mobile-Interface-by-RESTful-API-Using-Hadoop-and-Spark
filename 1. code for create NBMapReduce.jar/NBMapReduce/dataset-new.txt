@@ -1,0 +1,10 @@
+Urgent,Yes,Yes,Reading
+Urgent,No,Yes,Learn
+Near,Yes,Yes,Reading
+None,Yes,No,Reading
+None,No,Yes,Listening
+None,Yes,No,Reading
+Near,No,No,Learn
+Near,No,Yes,Thinking
+Near,Yes,Yes,Reading
+Urgent,No,No,Learn
