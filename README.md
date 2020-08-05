@@ -1,5 +1,3 @@
-# Development of Big Data App for Classification based on Map Reduce of Naive Bayes with or without Web and Mobile Interface by RESTful API Using Hadoop and Spark
-
 Authors:
 1. Imam Cholissodin (imamcs@ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB), Corresponding Author ✔
 2. Diajeng Sekar Seruni (diajengskr@gmail.com), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
